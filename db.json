@@ -3,7 +3,7 @@
         {
           "id": 1,
           "title": "Iron Man",
-          "image": "require("../assets/1.png")",
+          "image": "../assets/1.png",
         },
         {
           "id": 2,
