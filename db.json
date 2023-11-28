@@ -3,32 +3,32 @@
     {
       "id": 1,
       "title": "Iron Man",
-      "image": "../public/1.png"
+      "image": "1.png"
     },
     {
       "id": 2,
       "title": "SpiderMan",
-      "image": "../assets/spider1.png"
+      "image": "spider1.png"
     },
     {
       "id": 3,
       "title": "Deadpool",
-      "image": "../assets/deadpool.jpg"
+      "image": "deadpool.jpg"
     },
     {
       "id": 4,
       "title": "Captain America",
-      "image": "../assets/captainamerica.jpg"
+      "image": "captainamerica.jpg"
     },
     {
       "id": 5,
       "title": "Thor",
-      "image": "../assets/thor.jpg"
+      "image": "thor.jpg"
     },
     {
       "id": 6,
       "title": "Doctor Stranger",
-      "image": "../assets/doctor.jpg"
+      "image": "doctor.jpg"
     }
   ]
 }
