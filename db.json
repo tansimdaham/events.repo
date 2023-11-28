@@ -1,32 +1,32 @@
 {
-      events: [
+      "events": [
         {
-          id: 1,
-          title: "Iron Man",
-          image: require("../assets/1.png"),
+          "id": 1,
+          "title": "Iron Man",
+          "image": require("../assets/1.png"),
         },
         {
-          id: 2,
-          title: "SpiderMan",
-          image: require("../assets/spider1.png"),
+          "id": 2,
+          "title": "SpiderMan",
+          "image": require("../assets/spider1.png"),
         },
         {
-          id: 3,
-          title: "Deadpool",
-          image: require("../assets/deadpool.jpg"),
+          "id": 3,
+          "title": "Deadpool",
+          "image": require("../assets/deadpool.jpg"),
         },
         {
-          id: 4,
-          title: "Captain America",
-          image: require("../assets/captainamerica.jpg"),
+          "id": 4,
+          "title": "Captain America",
+          "image": require("../assets/captainamerica.jpg"),
         },
         {
-          id: 5,
-          title: "Thor",
-          image: require("../assets/thor.jpg"),
+          "id": 5,
+          "title": "Thor",
+          "image": require("../assets/thor.jpg"),
         },
         {
-          id: 6,
-          title: "Doctor Stranger",
-          image: require("../assets/doctor.jpg"),
+          "id": 6,
+          "title": "Doctor Stranger",
+          "image": require("../assets/doctor.jpg"),
         },
