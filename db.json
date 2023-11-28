@@ -8,25 +8,25 @@
         {
           "id": 2,
           "title": "SpiderMan",
-          "image": require("../assets/spider1.png"),
+          "image": "../assets/spider1.png",
         },
         {
           "id": 3,
           "title": "Deadpool",
-          "image": require("../assets/deadpool.jpg"),
+          "image": "../assets/deadpool.jpg",
         },
         {
           "id": 4,
           "title": "Captain America",
-          "image": require("../assets/captainamerica.jpg"),
+          "image": "../assets/captainamerica.jpg",
         },
         {
           "id": 5,
           "title": "Thor",
-          "image": require("../assets/thor.jpg"),
+          "image": "../assets/thor.jpg",
         },
         {
           "id": 6,
           "title": "Doctor Stranger",
-          "image": require("../assets/doctor.jpg"),
+          "image": "../assets/doctor.jpg",
         },
