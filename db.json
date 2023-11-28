@@ -1,32 +1,34 @@
 {
-      "events": [
-        {
-          "id": 1,
-          "title": "Iron Man",
-          "image": "../assets/1.png",
-        },
-        {
-          "id": 2,
-          "title": "SpiderMan",
-          "image": "../assets/spider1.png",
-        },
-        {
-          "id": 3,
-          "title": "Deadpool",
-          "image": "../assets/deadpool.jpg",
-        },
-        {
-          "id": 4,
-          "title": "Captain America",
-          "image": "../assets/captainamerica.jpg",
-        },
-        {
-          "id": 5,
-          "title": "Thor",
-          "image": "../assets/thor.jpg",
-        },
-        {
-          "id": 6,
-          "title": "Doctor Stranger",
-          "image": "../assets/doctor.jpg",
-        },
+  "events": [
+    {
+      "id": 1,
+      "title": "Iron Man",
+      "image": "../assets/1.png"
+    },
+    {
+      "id": 2,
+      "title": "SpiderMan",
+      "image": "../assets/spider1.png"
+    },
+    {
+      "id": 3,
+      "title": "Deadpool",
+      "image": "../assets/deadpool.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Captain America",
+      "image": "../assets/captainamerica.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Thor",
+      "image": "../assets/thor.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Doctor Stranger",
+      "image": "../assets/doctor.jpg"
+    }
+  ]
+}
