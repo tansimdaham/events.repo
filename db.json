@@ -5,29 +5,34 @@
       "title": "Iron Man",
       "image": "1.png",
       "video": "iron-man.mp4",
-      "description": "Playboy and visionary industrial genius Tony Stark, CEO of leading military defense contractor, Stark Industries, is at a casino in Afghanistan, blowing off an award ahead of a big day in war-torn Kunar, Afghanistan, to demonstrate his company's new Jericho missile. With him is his friend and military liaison, Lieutenant Colonel James Rhodes, a member of the United States Air Force. They arrive at the camp just as the Ten Rings, a terrorist organization led by Raza, attack. Stark and Rhodes are captured, and Stark is forced to build a Jericho missile for the terrorists. However, Stark secretly builds a suit of armor, and he eventually escapes and defeats the Ten Rings. Back in the US, Stark decides to stop manufacturing weapons and instead use his technology to protect the world as Iron Man."
+      "description": "Tony Stark, a billionaire genius and industrialist, is the CEO of Stark Industries, one of the world's leading weapons manufacturers. While presenting a new weapons system to the U.S. military in Afghanistan, Tony is captured by a terrorist organization called the Ten Rings. Forced to build a powerful weapon for his captors, Tony instead secretly creates a high-tech armored suit to escape his captivity.
+With the help of fellow prisoner Ho Yinsen, Tony refines his suit and becomes Iron Man, a powerful superhero. He escapes from Afghanistan and returns home, determined to dismantle his weapons empire and use his newfound power to protect the world from evil.
+Back in the United States, Tony faces opposition from his business partner and friend, Obadiah Stane, who secretly seeks to control Stark Industries and its weapons technology. Stane secretly sabotages Tony's efforts to expose his company's wrongdoings and arms the Ten Rings with advanced weapons.
+In a climactic showdown, Tony confronts Stane, who has also donned a powerful suit of armor. Iron Man defeats Stane, exposing his treachery and saving the world from his destructive plans. Tony publicly announces his identity as Iron Man and vows to use his powers for good"
     },
     {
       "id": 2,
       "title": "Spider-Man",
       "image": "spider1.png",
       "video": "spiderman.mp4",
-      "description": "Set during World War II, Captain America: The First Avenger tells the story of Steve Rogers, a frail but determined young man who dreams of serving his country. Despite his physical limitations, Steve is selected to participate in an experimental super-soldier program that transforms him into Captain America, the perfect soldier.
-As Captain America, Steve leads the Allied forces against the Red Skull, a ruthless Nazi scientist obsessed with world domination. Along the way, he befriends Bucky Barnes, a fellow soldier who becomes his loyal sidekick, and Peggy Carter, a British intelligence agent who becomes his love interest."
+      "description": "Peter Parker's life is turned upside down when his identity as Spider-Man is revealed to the world. Desperate to protect his loved ones, he turns to Doctor Strange for help. Strange casts a spell to make everyone forget that Peter is Spider-Man, but the spell goes awry, and villains from alternate universes are brought into their world.
+These villains include Green Goblin, Doctor Octopus, Electro, Sandman, and Lizard. They are all seeking revenge on Spider-Man for defeating them in their own universes. Peter must now work with these former foes to find a way to send them back before they destroy his world.
+Along the way, Peter learns a valuable lesson about responsibility and the importance of making difficult choices. He also realizes that he doesn't have to face everything alone. With the help of his friends, both old and new, Peter can overcome any challenge."
     },
     {
       "id": 3,
       "title": "Deadpool",
       "image": "deadpool.jpg",
       "video": "deadpool.mp4",
-      "description": "Wade Wilson is a New York City mercenary who is diagnosed with cancer. He is offered a cure by a mysterious organization, but the treatment leaves him horribly disfigured. He takes on the persona of Deadpool and seeks revenge on the man who disfigured him."
+      "description": "Former Special Forces operative Wade Wilson becomes the wisecracking mercenary Deadpool after being subjected to a rogue experiment that leaves him with accelerated healing powers but also a scarred physical appearance. Seeking revenge on the man who ruined his life, Deadpool sets out to track down Ajax, the leader of the facility where he was experimented on. Along the way, he crosses paths with mutant allies Colossus and Negasonic Teenage Warhead, and he falls in love with Vanessa, a prostitute with a dark past of her own."
     },
     {
       "id": 4,
       "title": "Captain America",
       "image": "captainamerica.jpg",
       "video": "captainAmerica.mp4",
-      "description": "Steve Rogers is a scrawny but determined young man who is rejected for military service due to his health problems. However, he is chosen to participate in a super-soldier experiment, and he is transformed into Captain America, a symbol of American patriotism and heroism. Captain America fights alongside his allies to defeat the Red Skull and his Nazi army."
+      "description": "Set during World War II, Captain America: The First Avenger tells the story of Steve Rogers, a frail but determined young man who dreams of serving his country. Despite his physical limitations, Steve is selected to participate in an experimental super-soldier program that transforms him into Captain America, the perfect soldier.
+As Captain America, Steve leads the Allied forces against the Red Skull, a ruthless Nazi scientist obsessed with world domination. Along the way, he befriends Bucky Barnes, a fellow soldier who becomes his loyal sidekick, and Peggy Carter, a British intelligence agent who becomes his love interest."
     },
     {
       "id": 5,
@@ -44,7 +49,9 @@ Thor, now fully reconnected to his inner strength and empathy, returns to Asgard
       "title": "Doctor Strange",
       "image": "doctor.jpg",
       "video": "doctorStrange.mp4",
-      "description": "Dr. Stephen Strange is a brilliant but arrogant neurosurgeon who loses the use of his hands in a car accident. Desperate to find a cure, he travels to Kamar-Taj, where he is trained in the mystic arts by the Ancient One. Strange must use his newfound powers to protect the Earth from Dormammu, a powerful warlord from another dimension."
+      "description": "Dr. Stephen Strange, a brilliant but arrogant neurosurgeon, loses the use of his hands in a devastating car accident. Desperate to regain his former life, he embarks on a perilous journey to Kamar-Taj, a mystical realm hidden in the Himalayas, seeking a cure.
+Under the tutelage of the Ancient One, a charismatic and enigmatic sorcerer, Strange discovers a hidden dimension of reality and the existence of sorcerers who protect Earth from dark forces. He trains relentlessly to master the mystic arts, unlocking extraordinary powers that bend the very fabric of time and space.
+As Strange delves deeper into the world of sorcery, he must confront his own ego and personal demons while facing a formidable foe, Kaecilius, a renegade sorcerer who seeks to unleash an ancient evil upon the world."
     }
   ]
 }
