@@ -4,43 +4,37 @@
       "id": 1,
       "title": "Iron Man",
       "image": "1.png",
-      "video": "iron-man.mp4",
-      "description": "Tony Stark, a billionaire genius and industrialist, is the CEO of Stark Industries,one of the world's leading weapons manufacturers. While presenting a new weapons system to the U.S.military in Afghanistan, Tony is captured by a terrorist organization called the Ten Rings. Forced to build a powerful weapon for his captors, Tony instead secretly creates a high-tech armored suit to escape his captivity."
+      "description": "Playboy and visionary industrial genius Tony Stark, CEO of leading military defense contractor, Stark Industries, is at a casino in Afghanistan, blowing off an award ahead of a big day in war-torn Kunar, Afghanistan, to demonstrate his company's new Jericho missile. With him is his friend and military liaison, Lieutenant Colonel James Rhodes, a member of the United States Air Force. They arrive at the camp just as the Ten Rings, a terrorist organization led by Raza, attack. Stark and Rhodes are captured, and Stark is forced to build a Jericho missile for the terrorists. However, Stark secretly builds a suit of armor, and he eventually escapes and defeats the Ten Rings. Back in the US, Stark decides to stop manufacturing weapons and instead use his technology to protect the world as Iron Man."
     },
     {
       "id": 2,
       "title": "Spider-Man",
       "image": "spider1.png",
-      "video": "spiderman.mp4",
-      "description": "Peter Parker's life is turned upside down when his identity as Spider-Man is revealed to the world. Desperate to protect his loved ones, he turns to Doctor Strange for help. Strange casts a spell to make everyone forget that Peter is Spider-Man, but the spell goes awry, and villains from alternate universes are brought into their world."
+      "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man. After Peter's identity is revealed, he asks Doctor Strange to cast a spell to make everyone forget that he is Spider-Man. However, the spell goes wrong, and villains from other universes begin to appear. Peter must team up with Doctor Strange and other Spider-Men from different universes to defeat the villains and send them back to their own realities."
     },
     {
       "id": 3,
       "title": "Deadpool",
       "image": "deadpool.jpg",
-      "video": "deadpool.mp4",
-      "description": "Former Special Forces operative Wade Wilson becomes the wisecracking mercenary Deadpool after being subjected to a rogue experiment that leaves him with accelerated healing powers but also a scarred physical appearance."
+      "description": "Wade Wilson is a New York City mercenary who is diagnosed with cancer. He is offered a cure by a mysterious organization, but the treatment leaves him horribly disfigured. He takes on the persona of Deadpool and seeks revenge on the man who disfigured him."
     },
     {
       "id": 4,
       "title": "Captain America",
       "image": "captainamerica.jpg",
-      "video": "captainAmerica.mp4",
-      "description": "Set during World War II, Captain America: The First Avenger tells the story of Steve Rogers, a frail but determined young man who dreams of serving his country. Despite his physical limitations, Steve is selected to participate in an experimental super-soldier program that transforms him into Captain America, the perfect soldier."
+      "description": "Steve Rogers is a scrawny but determined young man who is rejected for military service due to his health problems. However, he is chosen to participate in a super-soldier experiment, and he is transformed into Captain America, a symbol of American patriotism and heroism. Captain America fights alongside his allies to defeat the Red Skull and his Nazi army."
     },
     {
       "id": 5,
       "title": "Thor",
       "image": "thor.jpg",
-      "video": "thor.mp4",
-      "description": "In the realm of Asgard, the mighty God of Thunder, Thor, is arrogant and self-absorbed. His impulsive behavior leads to a disastrous battle with the frost giants of Jotunheim, resulting in the shattering of the Bifrost, the bridge connecting the Nine Realms."
+      "description": "Thor is the arrogant and powerful son of Odin, the king of Asgard. When Thor's arrogance leads to a war with the frost giants, Odin banishes him to Earth. On Earth, Thor learns humility and compassion, and he eventually proves himself worthy to wield his hammer, Mjolnir, and return to Asgard to defeat his evil brother, Loki."
     },
     {
       "id": 6,
       "title": "Doctor Strange",
       "image": "doctor.jpg",
-      "video": "doctorStrange.mp4",
-      "description": "Dr. Stephen Strange, a brilliant but arrogant neurosurgeon, loses the use of his hands in a devastating car accident. Desperate to regain his former life, he embarks on a perilous journey to Kamar-Taj, a mystical realm hidden in the Himalayas, seeking a cure."
+      "description": "Dr. Stephen Strange is a brilliant but arrogant neurosurgeon who loses the use of his hands in a car accident. Desperate to find a cure, he travels to Kamar-Taj, where he is trained in the mystic arts by the Ancient One. Strange must use his newfound powers to protect the Earth from Dormammu, a powerful warlord from another dimension."
     }
   ]
 }
